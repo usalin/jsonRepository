@@ -1,0 +1,105 @@
+{
+    "departures": [
+      {"value": 1, "viewValue": "Moscow"},
+      {"value": 2, "viewValue": "St. Petersbourg"},
+      {"value": 3, "viewValue": "Novosibirsk"},
+      {"value": 4, "viewValue": "Sissa"}
+    ],
+    "destinations": [
+      {"value": 1, "viewValue": "Russia", "liked": 1},
+      {"value": 2, "viewValue": "Ukraine", "liked": 2},
+      {"value": 3, "viewValue": "Belarus", "liked": 3},
+      {"value": 4, "viewValue": "Turkey", "liked": 4}
+    ],
+    "regions": [
+      {"value": 1, "viewValue": "Russia North", "liked": 1},
+      {"value": 2, "viewValue": "Russia South", "liked": 2},
+      {"value": 3, "viewValue": "Russia East", "liked": 3},
+      {"value": 4, "viewValue": "Russia West", "liked": 4}
+    ],
+    "hotels": [
+      {"value": 1, "viewValue": "7 Avenue Hotel",  "liked": 1, "stars": 1},
+      {"value": 2, "viewValue": "Aquamarine", "liked": 2, "stars": 2},
+      {"value": 3, "viewValue": "Grand Azure", "liked": 3, "stars": 3},
+      {"value": 4, "viewValue": "Astoia Suites", "liked": 4, "stars": 4}
+    ],
+    "classifications": [
+      {"value": 1, "viewValue": "Indifferent"},
+      {"value": 2, "viewValue": "6+"},
+      {"value": 3, "viewValue": "7+"},
+      {"value": 4, "viewValue": "8+"}
+    ],
+  
+    "proximityToSea": [
+      {"value": 1, "viewValue": "Option 1"},
+      {"value": 2, "viewValue": "Option 2"},
+      {"value": 3, "viewValue": "Option 3"},
+      {"value": 4, "viewValue": "Indifferent"}
+    ],
+    "categories": [
+      {"value": 1, "viewValue": "2*"},
+      {"value": 2, "viewValue": "3*"},
+      {"value": 3, "viewValue": "4*"},
+      {"value": 4, "viewValue": "5*"},
+      {"value": 5, "viewValue": "Apts"},
+      {"value": 6, "viewValue": "Villas"},
+      {"value": 7, "viewValue": "HV-1"},
+      {"value": 8, "viewValue": "HV-2"}
+    ],
+  
+    "concepts": [
+      {"value": 1, "viewValue": "FB"},
+      {"value": 2, "viewValue": "HB"},
+      {"value": 3, "viewValue": "BB"},
+      {"value": 4, "viewValue": "AU"},
+      {"value": 5, "viewValue": "UAI"},
+      {"value": 6, "viewValue": "RO"},
+      {"value": 7, "viewValue": "FB+"}
+  
+    ],
+  
+    "currencies": [
+      {"value": 1, "viewValue": "RUB"},
+      {"value": 2, "viewValue": "USD"},
+      {"value": 3, "viewValue": "EUR"}
+    ],
+    "agencies": [
+      {"value": 1, "viewValue": "Amigo S"},
+      {"value": 2, "viewValue": "Anex"},
+      {"value": 3, "viewValue": "Evroport"},
+      {"value": 4, "viewValue": "Pegas Touristik"},
+      {"value": 4, "viewValue": "Grand Touristik"}
+    ],
+    "options": [
+      {"value": 1, "viewValue": "Available Flights"},
+      {"value": 2, "viewValue": "Vacant Places"},
+      {"value": 3, "viewValue": "Only Chartered Flights"}
+    ],
+    "lists": [
+      {"id": 1, "name": "Today", "imgUrl": "https://fakeimg.pl/250x100/", "description":  "description-1", "priority": 1, "isCompleted": false, "dueDate": "Wed Mar 11 2021 00:00:00 GMT+0300 (GMT+03:00)"},
+      {"id": 2, "name": "Tomorrow", "imgUrl": "https://fakeimg.pl/300/",  "description":  "description-2", "priority": 2, "isCompleted": false},
+      {"id": 3, "name": "Later", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-3", "priority": 3, "isCompleted": false},
+      {"id": 4, "name": "Someday", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-4", "priority": 4, "isCompleted": false},
+      {"id": 5, "name": "Maybe", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-5", "priority": 5, "isCompleted": false},
+      {"id": 6, "name": "Someday / Maybe", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-6", "priority": 6, "isCompleted": false}
+      ],
+    "tasks": [
+      {"id": 1, "name": "Task-1", "description": "Description 1", "listId": 1},
+      {"id": 2, "name": "Task-2", "description": "Description 2", "listId": 2},
+      {"id": 3, "name": "Task-3", "description": "Description 2", "listId": 3},
+      {"id": 4, "name": "Task-4", "description": "Description 2", "listId": 2}
+    ],
+    "priorities": [
+      {"id": 1, "value": 1},
+      {"id": 2, "value": 2},
+      {"id": 3, "value": 3}
+    ],
+    "status": [
+    {"id": 1, "value": "Not Started"},
+    {"id": 2, "value": "In Progress"},
+    {"id": 3, "value": "Complete"}
+    ]
+  
+  }
+  
+  
