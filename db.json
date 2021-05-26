@@ -1,22 +1,16 @@
 {
-   
-    "tasks": [
-      {"id": 1, "name": "Task-1", "description": "Description 1", "listId": 1},
-      {"id": 2, "name": "Task-2", "description": "Description 2", "listId": 2},
-      {"id": 3, "name": "Task-3", "description": "Description 2", "listId": 3},
-      {"id": 4, "name": "Task-4", "description": "Description 2", "listId": 2}
-    ],
-    "priorities": [
-      {"id": 1, "value": 1},
-      {"id": 2, "value": 2},
-      {"id": 3, "value": 3}
-    ],
-    "status": [
-    {"id": 1, "value": "Not Started"},
-    {"id": 2, "value": "In Progress"},
-    {"id": 3, "value": "Complete"}
-    ]
-  
-  }
-  
-  
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ime Prezime2",
+      "time": "т",
+      "text": "Како сте?"
+    },
+    {
+      "id": 3,
+      "name": "Ime Prezime3",
+      "time": "т",
+      "text": "Како?"
+    }
+  ]
+}
