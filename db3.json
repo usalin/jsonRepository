@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Ime Prezime2",
+      "time": "т",
+      "text": "Како сте?"
+    },
+    {
+      "id": 3,
+      "name": "Ime Prezime3",
+      "time": "т",
+      "text": "Како?"
+    }
+  ]
+}
