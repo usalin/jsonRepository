@@ -1,27 +1,7 @@
 {
- "lists": [
-    {"id": 1, "name": "Today", "imgUrl": "https://seeklogo.com/images/N/netflix-logo-6A5D357DF8-seeklogo.com.png", "description":  "description-1", "priority": 1, "isCompleted": false, "dueDate": "Wed Mar 11 2021 00:00:00 GMT+0300 (GMT+03:00)", "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/angular2-for-beginners-small-v2.png","listCount": 1 
-    }, 
-    {"id": 2, "name": "Tomorrow", "imgUrl": "https://fakeimg.pl/300/",  "description":  "description-2", "priority": 2, "isCompleted": false, "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/security-cover-small-v2.png", "listCount": 2 },
-    {"id": 3, "name": "Later", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-3", "priority": 3, "isCompleted": false, "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-pwa-course.png", "listCount": 10},
-    {"id": 4, "name": "Someday", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-4", "priority": 4, "isCompleted": false, "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/ngrx-angular.png", "listCount": 10},
-    {"id": 5, "name": "Maybe", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-5", "priority": 5, "isCompleted": false, "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/advanced_angular-small-v3.png", "listCount": 10},
-    {"id": 6, "name": "Someday / Maybe", "imgUrl": "https://fakeimg.pl/250x100/",  "description": "description-6", "priority": 6, "isCompleted": false, "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/typescript-2-small.png", "listCount": 10}
-    ],
-  "tasks": [
-    {"id": 1, "name": "Task-1", "description": "Description 1", "listId": 1},
-    {"id": 2, "name": "Task-2", "description": "Description 2", "listId": 2},
-    {"id": 3, "name": "Task-3", "description": "Description 2", "listId": 3},
-    {"id": 4, "name": "Task-4", "description": "Description 2", "listId": 2}
-  ],
-   "priorities": [
-    {"id": 1, "value": 1},
-    {"id": 2, "value": 2},
-    {"id": 3, "value": 3}
-  ],
-  "status": [
-  {"id": 1, "value": "Not Started"},
-  {"id": 2, "value": "In Progress"},
-  {"id": 3, "value": "Complete"}
-  ]
+ "books": [
+    {"id": 1, "title": "Book One", "author": "Me", "yearPublished": "2017" },
+    {"id": 2, "title": "Book Two", "author": "Me", "yearPublished": "2017" },
+    {"id": 3, "title": "Book Three", "author": "Me", "yearPublished": "2017" },
+    {"id": 4, "title": "Book Four", "author": "Me", "yearPublished": "2017" }
 }
