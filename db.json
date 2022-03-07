@@ -1,8 +1,8 @@
 {
  "users": [
-    {"id": 1, "username": "ali", "email": "mail1@gmail.com", "password": "asd123",   },
-    {"id": 2, "username": "ayi", "email": "mail2@gmail.com", "password": "asd1234",   },
-    {"id": 3, "username": "avi", "email": "mail3@gmail.com", "password": "asd12345",   },
-    {"id": 4, "username": "ami", "email": "mail4@gmail.com", "password": "asd123456",   }
+    {"id": 1, "username": "ali", "email": "mail1@gmail.com", "password": "asd123"   },
+    {"id": 2, "username": "ayi", "email": "mail2@gmail.com", "password": "asd1234"   },
+    {"id": 3, "username": "avi", "email": "mail3@gmail.com", "password": "asd12345"   },
+    {"id": 4, "username": "ami", "email": "mail4@gmail.com", "password": "asd123456"   }
   ]
 }
